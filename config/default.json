@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://hector_1902:Viennacity.123@cluster0.m6pgp.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "JWTSecret":"Vienncity.123"
+}
